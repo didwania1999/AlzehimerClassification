@@ -1,5 +1,5 @@
 <code>
-  <h1 align="center">Project Title </h1>
+  <h1 align="center">Alzheimer Detection |Medical Image Processing </h1>
 </code>
 
 <!-- For logo -->
