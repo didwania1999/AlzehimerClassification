@@ -30,7 +30,7 @@ https://www.kaggle.com/tourist55/alzheimers-dataset-4-class-of-images
 ```
 -->
 
-<p align="center">
+<p align="left">
   <code> Muskan Didwania </code>
 </p>
 <br>
